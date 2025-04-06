@@ -1,0 +1,5 @@
+[console_scripts]
+hello_node = hello_ros2.hello_node:main
+hello_subscriber = hello_ros2.hello_subscriber:main
+waypoint_navigator = hello_ros2.waypoint_navigator:main
+

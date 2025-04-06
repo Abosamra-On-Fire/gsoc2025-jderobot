@@ -1,0 +1,26 @@
+[1.315s] Invoking command in '/home/kareem/ros2_ws/src/hello_ros2': PYTHONPATH=/home/kareem/ros2_ws/build/hello_ros2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kareem/ros2_ws/install/hello_ros2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/hello_ros2 build --build-base /home/kareem/ros2_ws/build/hello_ros2/build install --record /home/kareem/ros2_ws/build/hello_ros2/install.log --single-version-externally-managed install_data
+[1.812s] running egg_info
+[1.813s] writing ../../build/hello_ros2/hello_ros2.egg-info/PKG-INFO
+[1.814s] writing dependency_links to ../../build/hello_ros2/hello_ros2.egg-info/dependency_links.txt
+[1.820s] writing entry points to ../../build/hello_ros2/hello_ros2.egg-info/entry_points.txt
+[1.820s] writing requirements to ../../build/hello_ros2/hello_ros2.egg-info/requires.txt
+[1.821s] writing top-level names to ../../build/hello_ros2/hello_ros2.egg-info/top_level.txt
+[1.825s] reading manifest file '../../build/hello_ros2/hello_ros2.egg-info/SOURCES.txt'
+[1.828s] writing manifest file '../../build/hello_ros2/hello_ros2.egg-info/SOURCES.txt'
+[1.828s] running build
+[1.828s] running build_py
+[1.828s] copying hello_ros2/waypoint_navigator.py -> /home/kareem/ros2_ws/build/hello_ros2/build/lib/hello_ros2
+[1.829s] running install
+[1.830s] running install_lib
+[1.834s] copying /home/kareem/ros2_ws/build/hello_ros2/build/lib/hello_ros2/waypoint_navigator.py -> /home/kareem/ros2_ws/install/hello_ros2/lib/python3.10/site-packages/hello_ros2
+[1.835s] byte-compiling /home/kareem/ros2_ws/install/hello_ros2/lib/python3.10/site-packages/hello_ros2/waypoint_navigator.py to waypoint_navigator.cpython-310.pyc
+[1.839s] running install_data
+[1.842s] running install_egg_info
+[1.843s] removing '/home/kareem/ros2_ws/install/hello_ros2/lib/python3.10/site-packages/hello_ros2-0.0.0-py3.10.egg-info' (and everything under it)
+[1.844s] Copying ../../build/hello_ros2/hello_ros2.egg-info to /home/kareem/ros2_ws/install/hello_ros2/lib/python3.10/site-packages/hello_ros2-0.0.0-py3.10.egg-info
+[1.850s] running install_scripts
+[1.890s] Installing hello_node script to /home/kareem/ros2_ws/install/hello_ros2/lib/hello_ros2
+[1.891s] Installing hello_subscriber script to /home/kareem/ros2_ws/install/hello_ros2/lib/hello_ros2
+[1.891s] Installing waypoint_navigator script to /home/kareem/ros2_ws/install/hello_ros2/lib/hello_ros2
+[1.892s] writing list of installed files to '/home/kareem/ros2_ws/build/hello_ros2/install.log'
+[1.993s] Invoked command in '/home/kareem/ros2_ws/src/hello_ros2' returned '0': PYTHONPATH=/home/kareem/ros2_ws/build/hello_ros2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kareem/ros2_ws/install/hello_ros2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/hello_ros2 build --build-base /home/kareem/ros2_ws/build/hello_ros2/build install --record /home/kareem/ros2_ws/build/hello_ros2/install.log --single-version-externally-managed install_data
